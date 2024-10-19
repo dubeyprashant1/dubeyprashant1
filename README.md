@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dubey_prashant4" target="blank"><img src="https://img.shields.io/twitter/follow/dubey_prashant4?logo=twitter&style=for-the-badge" alt="dubey_prashant4" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and Django**
+- 🌱 I’m currently learning **AI-ML and Exploratory Data Analysis**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Mysql, Python, C++**
+- 💬 Ask me about **Mysql, Python, C++, Data Structures & Machine-Learning Algo**
 
 - 📫 How to reach me **prashantdubey2652020@gmail.com**
 
