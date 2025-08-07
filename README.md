@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar Dubey</h1>
-<h3 align="center">A passionate AI-ML Practitioner from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyprashant1&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyprashant1" /> </p>
 
