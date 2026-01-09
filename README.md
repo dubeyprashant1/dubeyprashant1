@@ -5,7 +5,7 @@
   <img 
     src="https://avatars.githubusercontent.com/dubeyprashant1" 
     width="150"
-    style="border-radius: 50%;"
+    style="border-radius: 20%;"
     alt="Prashant Kumar Dubey"
   />
 </p>
