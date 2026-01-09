@@ -30,7 +30,6 @@
 - 🌱 I’m currently learning Databricks and PySpark for big data processing  
 - 💬 Ask me about Python, PySpark, Power BI, SQL, Data Structures, ML Algorithms  
 - 📫 How to reach me **prashantdubey2652020@gmail.com**  
-- ⚡ Fun fact I think I am a funny, jokeful programmer  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
